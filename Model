@@ -1,0 +1,11 @@
+!pip install super-gradients
+!pip install imutils
+!pip install roboflow
+!pip install pytube --upgrade
+!pip install torchinfo
+!pip install pillow
+!pip install easyocr
+#!pip install pytesseract
+#!pip install tesseract
+!pip install super-resolution
+
