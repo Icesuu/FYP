@@ -8,4 +8,5 @@ The test done on the model was to test the performance when running the model, t
 
 Overall, the proposed model yields a result of 93.22% when recognizing license plate under normal conditions, 93.0% when recognizing under obscured condition, 93.21% under hazy condition, and 85.9% under raining condition. The result had shown that the proposed method is valid and able to perform on-par with existing method for recognition under challenging conditions.
 
-https://github.com/Icesuu/FYP/blob/main/Image.PNG
+![Image](https://github.com/user-attachments/assets/d7eb071a-4c98-4fdb-9da8-af88625b6a1f)
+
